@@ -39,6 +39,4 @@ Skills demonstrated
 Financial statement analysis and normalization of key metrics (revenue, EBIT, EBITDA, FCF).
 Building and auditing a professional DCF model with scenarios and sensitivities.
 Equity valuation, including cost of capital estimation and terminal value design.
-Writing a structured equity investment memo and embedding it directly in an Excel model.
-
-A dedicated Summary/Memo sheet with the written investment case.
+Writing a structured equity investment thesis.
