@@ -15,7 +15,7 @@ Equity value and implied price per share, including a cost of equity assumption 
 Integrated investment memo sheet summarizing business overview, key drivers, valuation results, and a Buy/Hold/Hold recommendation.
 
 Repository structure
-DCF_Infineon.xlsx – Main Excel file containing:
+Infineon_Valuation_Model.xlsx – Main Excel file containing:
   Input and assumptions sheets.
   Historical and forecast financial statements.
   DCF valuation, scenarios, sensitivities, and key outputs.
@@ -30,10 +30,10 @@ Terminal value: Terminal value is estimated using a perpetual growth approach wi
 Sensitivity & scenarios: The model includes scenario and sensitivity analysis on key drivers such as WACC, terminal growth, and margin assumptions.
 
 How to use
-Download and open DCF_Infineon.xlsx.
+Download and open Infineon_Valuation_Model.xlsx.
 Start in the Assumptions sheet to review or adjust key inputs (WACC, terminal growth, tax rate, growth assumptions).
-Use the scenario selector cell on the Assumptions sheet to switch between Base, Bear, and Bull cases and see the impact on value per share in the DCF and Summary outputs.
-Go to the Summary/Memo sheet to read the integrated investment memo and see the high-level conclusion of the valuation.
+Use the scenario selector cell on the Assumptions sheet to switch between Base, Bear, and Bull cases and see the impact on the outputs in other sheets.
+Go to the Thesis & Reccomendation sheet to read the integrated investment memo and see the high-level conclusion of the valuation.
 
 Skills demonstrated
 Financial statement analysis and normalization of key metrics (revenue, EBIT, EBITDA, FCF).
